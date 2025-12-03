@@ -1,0 +1,3 @@
+# HELP web_server_status Status of the web server
+# TYPE web_server_status gauge
+web_server_status 1
